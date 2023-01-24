@@ -1,0 +1,11 @@
+---
+title: "yesuntitled"
+author: "Musa"
+date: "1/24/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+pressure to assure
